@@ -28,5 +28,9 @@ label start:
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
     # This ends the game.
+
+    e "Let's test the match 3 mini game"
+
+    jump match3
     
     return
