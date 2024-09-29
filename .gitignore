@@ -1,0 +1,8 @@
+*.txt
+/game/gui
+/game/audio
+/game/images
+/game/saves
+/game/tl
+/game/cache
+*.rpyc
